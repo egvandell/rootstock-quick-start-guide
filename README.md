@@ -1,5 +1,7 @@
 # MyToken Smart Contract Project
 
+Tested and working on Testnet as of 5/31/24
+
 This repository contains a project for developing, testing, and deploying a smart contract using the Hardhat framework, tailored for the Rootstock network. 
 
 ## Repository Branching Strategy
